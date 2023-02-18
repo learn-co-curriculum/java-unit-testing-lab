@@ -10,7 +10,7 @@ In this lab, practice writing unit tests to check program logic.
 
 Fork and clone this repository. When you do, you will see a file called
 `BuggyLab.java` in the `java-unit-testing-lab/src/main/java` directory. You will
-also see the `BuggyLabTest.java` in the `java-unit-testing-lba/src/test/java`
+also see the `BuggyLabTest.java` in the `java-unit-testing-lab/src/test/java`
 directory. All the unit testing will be written in the `BuggyLabTest` and all
 the code that should be tested will be in `BuggyLab`.
 
